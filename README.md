@@ -1,1 +1,7 @@
-# CTIS-County-Vaccination-Coverage
+# Bias-adjusted predictions of county-level vaccination coverage from the COVID-19 Trends and Impact Survey
+
+### This repository contains analytic [code](https://github.com/PPML/CTIS-County-Vaccination-Coverage/tree/main/code) for our manuscript.
+
+Abstract: The potential for bias in non-representative, large-scale, low-cost survey data can limit their utility for population health measurement and public health decision-making. We developed a multi-step regression framework to bias-adjust vaccination coverage predictions from the large-scale US COVID-19 Trends and Impact Survey that included post-stratification to the American Community Survey and secondary normalization to an unbiased reference indicator. As a case study, we applied this framework to generate county-level predictions of long-run vaccination coverage among children ages 5 to 11 years. Our vaccination coverage predictions suggest a low ceiling on long-term national coverage (46%), detect substantial geographic heterogeneity (ranging from 11% to 91% across counties in the US), and highlight widespread disparities in the pace of scale-up in the three months following Emergency Use Authorization of COVID-19 vaccination for 5 to 11 year-olds. Generally, our analysis demonstrates an approach to leverage differing strengths of multiple sources of information to produce estimates on the time-scale and geographic-scale necessary for proactive decision-making. The utility of large-scale, low-cost survey data for improving population health measurement is amplified when these data are combined with other representative sources of data.
+  
+Contact: Marissa Reitsma (mreitsma@stanford.edu)
